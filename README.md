@@ -3,7 +3,6 @@
 photo gallery app
 ## Apk flutter - Android Studio
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
