@@ -1,7 +1,7 @@
-# photo_gallery_apk
+## photo_gallery_apk
 
 photo gallery app
-# Apk flutter - Android Studio
+## Apk flutter - Android Studio
 
 ## Getting Started
 
